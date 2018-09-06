@@ -1,4 +1,4 @@
-# Memory Game Project
+# Feed Reader Testing
 
 * [Description](#Description)
 * [Rules](#Rules)
