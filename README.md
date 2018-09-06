@@ -2,7 +2,7 @@
 
 * [Description](#Description)
 * [Rules](#Rules)
-* [Steps to run the project](#Steps to run the project)
+* [Stepstoruntheproject](#Stepstoruntheproject)
 
 
 ## Description
