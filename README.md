@@ -2,7 +2,6 @@
 
 * [Description](#Description)
 * [Rules](#Rules)
-* [Links](#Links)
 
 ## Description
 
