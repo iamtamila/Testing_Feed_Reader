@@ -2,6 +2,8 @@
 
 * [Description](#Description)
 * [Rules](#Rules)
+* [Steps to run the project](#Steps to run the project)
+
 
 ## Description
 
@@ -10,6 +12,7 @@ This project is a web-based application that reads RSS feeds. Tests provided by 
 
 ## Rules
 
+After opening 'index.html' file you'll see some URLs and Jasmine notes below it.
 There are 7 specs for Jasmine. By clicking one you'll see if there're errors in code. If code is passing all tests - Jasmine will show 
 actual number of specs that are working:
 
@@ -19,3 +22,10 @@ actual number of specs that are working:
   b. The menu changes visibility when clicked.
 3. The Third test: "Initial Entries" checking if there's an .entry element within the .feed container.
 4. The Fourth TEST: New Feed Selection checking if each new feed changing content.
+
+## Steps to run the project
+
+There are two ways to run the project:
+
+1. By clicking 'run all tests' in Jasmine - it will run all the tests that Jasmine has.
+2. By clicking on every test separately - it will run only one test at a time.
