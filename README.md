@@ -31,11 +31,11 @@ Open 'index.html' file in your browser. After opening the file there are two way
 1. By clicking 'run all tests' or 'Jasmine__TopLevel__' in Jasmine - it will run all the tests that Jasmine has.
 2. By clicking on every test separately:<br />
   2.1. 'RSS Feeds' test run 3 specs: <br />
-    2.1.1.'are defined'; <br />
-    2.1.2.'URLs are defined'; <br />
-    2.1.3.'NAME is defined'.<br />
+    ..2.1.1.'are defined'; <br />
+    ..2.1.2.'URLs are defined'; <br />
+    ..2.1.3.'NAME is defined'.<br />
   2.2 'The menu' test run 2 specs: <br />
-    2.2.1.'The menu is hidden'; <br />
-    2.2.2.'The menu changes visibility'.<br />
+    ..2.2.1.'The menu is hidden'; <br />
+    ..2.2.2.'The menu changes visibility'.<br />
 2.3. 'Initial Entries' test run 1 spec:  'Entry element within the feed container'. <br />
 2.4. 'New Feed Selection' test run 1 spec: 'New feed changing content'.
