@@ -58,7 +58,7 @@ describe('Initial Entries', function() {
   });
   /*checking if there's an .entry element within the .feed container*/
   it('Entry element within the feed container', function () {
-    expect($('entry .feed')).toBeDefined();
+    expect($('.feed .entry').length).toBeGreaterThan(0);
   });
 });
 
@@ -70,11 +70,10 @@ describe ('New Feed Selection', function () {
     $('.feed').empty();
     loadFeed (0, function () {
       start = $('.feed').find(allFeeds.url);
-      done();
-    });
-    loadFeed (1, function () {
-      end = $('.feed').find(allFeeds.url);
-      done();
+      loadFeed (1, function () {
+        end = $('.feed').find(allFeeds.url);
+        done();
+      });
     });
   });
   it('New feed changing content', function () {
