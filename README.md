@@ -7,7 +7,7 @@
 
 ## Description
 
-This project is a web-based application that reads RSS feeds. Tests provided by developer help to manage if there's any issue with the code.
+This project is a web-based application that reads RSS feeds. Tests provided help to manage if there's any issue with the code.
 
 
 ## Rules
